@@ -8,7 +8,7 @@ This is an ECMS Project developed with Laravel 8. I've used 2 integrated Bootstr
 
 ⇒ An Exhaustive Control Panel,
 
-⇒ Tables used: Blog Posts,Projects,Pages,Sliders,Users,Settings
+⇒ Tables (Modules) used: Blog Posts,Projects,Pages,Sliders,Users,Settings
 
 ⇒ Useful and Functional CRUD Sytem for each,
 
@@ -30,7 +30,7 @@ Bu proje Laravel 8.0 ile geliştirilmiş bir ECMS (Kurumsal İçerik Yönteim Si
 
 ⇒ Kapsamlı Kontrol Paneli,
 
-⇒ Kullandığım Tablolar: Blog Posts,Projects,Pages,Sliders,Users,Settings
+⇒ Kullandığım Tablolar(Modüller): Blog Posts,Projects,Pages,Sliders,Users,Settings
 
 ⇒ Her tablo için kullanışlı ve fonksiyonel CRUD Sistemi
 
