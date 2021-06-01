@@ -1,0 +1,132 @@
+/*!
+ * Start Bootstrap - Modern Business (https://startbootstrap.com/template-overviews/modern-business)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+    font-family: "Microsoft Sans Serif";
+}
+
+/*nav{*/
+
+/*    padding: 0;*/
+/*    margin: 0;*/
+/*    text-decoration: none;*/
+/*    list-style: none;*/
+/*    height: 80px;*/
+/*    width: 100%;*/
+/*    background: #34495e;*/
+
+/*}*/
+
+/*label.logo{*/
+
+/*    font-size: 25px;*/
+/*    font-weight: bold;*/
+/*    color: white;*/
+/*    padding: 0 100px;*/
+/*    line-height: 80px;*/
+
+/*}*/
+
+/*nav ul{*/
+
+/*    float: right;*/
+/*    margin-right: 40px;*/
+
+/*}*/
+
+/*nav li{*/
+
+/*    display: inline-block;*/
+/*    margin: 0 6px;*/
+/*    line-height: 80px;*/
+/*    text-align: center;*/
+
+/*}*/
+
+/*nav a{*/
+
+/*    color: white;*/
+/*    font-size: 18px;*/
+/*    border: 1px solid transparent;*/
+/*    padding: 7px 10px;*/
+/*    border-radius: 3px;*/
+
+/*}*/
+
+/*a.active,a:hover{*/
+
+/*    border: 1px solid white;*/
+/*    transition: .5s;*/
+
+/*}*/
+
+/*nav #icon{*/
+
+/*    color: white;*/
+/*    font-size: 30px;*/
+/*    line-height: 80px;*/
+/*    float: right;*/
+/*    margin-right: 40px;*/
+/*    cursor: pointer;*/
+
+/*}*/
+
+/*@media (max-width: 1048px) {*/
+/*    label.logo{*/
+
+/*        font-size: 32px;*/
+/*        padding-left: 60px;*/
+
+/*    }*/
+
+/*    nav ul{*/
+
+/*        margin-right: 20px;*/
+
+/*    }*/
+
+/*    nav a{*/
+
+/*        font-size: 17px;*/
+
+/*    }*/
+/*}*/
+
+/*@media (max-width: 909px) {*/
+
+/*    nav #icon{*/
+
+/*        display: block;*/
+
+/*    }*/
+
+/*    nav ul{*/
+
+/*        position: fixed;*/
+/*        width: 100%;*/
+/*        height: 100vh;*/
+/*        background: #2f3640;*/
+/*        top: 80px;*/
+/*        left: 0;*/
+/*        text-align: center;*/
+
+/*    }*/
+
+/*}*/
+
+.carousel-item {
+  height: 65vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
