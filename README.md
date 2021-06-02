@@ -46,8 +46,40 @@ Bu proje Laravel 8.0 ile geliştirilmiş bir ECMS (Kurumsal İçerik Yönteim Si
 
 ### :camera_flash: Preview / Önizleme:
 
-![](SS/Pre1.png)
+![](screenshots/1.png)
 
-![](SS/Pre2.png)
+![](screenshots/2.png)
 
-![](SS/Pre3.png)
+![](screenshots/3.png)
+
+![](screenshots/4.png)
+
+![](screenshots/5.png)
+
+![](screenshots/6.png)
+
+![](screenshots/7.png)
+
+![](screenshots/8.png)
+
+![](screenshots/9.png)
+
+![](screenshots/10.png)
+
+![](screenshots/11.png)
+
+![](screenshots/düzenleme1.gif)
+
+![](screenshots/erisim_yetkiniz_yok.gif)
+
+![](screenshots/frontend2.gif)
+
+![](screenshots/giris_paneli.gif)
+
+![](screenshots/guvenli_cikis.gif)
+
+![](screenshots/parola_degistir.gif)
+
+![](screenshots/silme_islemleri.gif)
+
+![](screenshots/veri_ekleme.gif)
