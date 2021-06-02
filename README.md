@@ -24,7 +24,7 @@ This is an ECMS Project developed with Laravel 8. I've used 2 integrated Bootstr
 
 # :book: Laravel 8.0 - İçerik Yönetim Sistemi 
 
-Bu proje Laravel 8.0 ile geliştirilmiş bir ECMS (Kurumsal İçerik Yönteim Sistemi) projesidir. Projede Yönetim Paneli ve Frontend kısmına entegre 2 adet hazır Bootstrap teması kullandım. Projeyi bir kişisel blog tarzında özelleştirdim. Ancak özellikler kurumsal bir şirketin kullanabileceği şekildedir.
+Bu proje Laravel 8.0 ile geliştirilmiş bir ECMS (Kurumsal İçerik Yönetim Sistemi) projesidir. Projede Yönetim Paneli ve Frontend kısmına entegre 2 adet hazır Bootstrap teması kullandım. Projeyi bir kişisel blog tarzında özelleştirdim. Ancak özellikler kurumsal bir şirketin kullanabileceği şekildedir.
 
 ###  :sassy_man: Özellikler:
 
