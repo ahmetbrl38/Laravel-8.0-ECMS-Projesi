@@ -46,6 +46,8 @@ Bu proje Laravel 8.0 ile geliştirilmiş bir ECMS (Kurumsal İçerik Yönteim Si
 
 ### :camera_flash: Preview / Önizleme:
 
+![](front2.gif)
+
 ![](screenshots/1.png)
 
 ![](screenshots/2.png)
